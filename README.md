@@ -78,12 +78,12 @@ ML system predicting YouTube video views and viral potential. Analyzes 900+ vide
 ## Models & Results
 
 ### Regression Models
-| Model | R2 Score | RMSE | Time |
-|-------|----------|------|------|
-| Gradient Boosting | 0.7085 | 66.7M | 0.34s |
-| Random Forest | 0.6623 | 71.8M | 0.42s |
-| XGBoost | 0.6013 | 78.0M | 0.10s |
-| KNN | 0.6352 | 74.6M | 0.01s |
+| Model | R2 Score | RMSE |
+|-------|----------|------|
+| Gradient Boosting | 0.7085 | 66.7M | 
+| Random Forest | 0.6623 | 71.8M |
+| XGBoost | 0.6013 | 78.0M | 
+| KNN | 0.6352 | 74.6M | 
 
 ### Classification Results
 | Threshold | Best Model | Accuracy |
